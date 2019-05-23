@@ -32,7 +32,7 @@
     "gulp-nodemon": "^2.2.1",
     "gulp-sass": "^3.1.0",
     "gulp-watch": "^4.3.11",
-    "jquery": "^3.2.1",
+    "jquery": "^3.4.0",
     "npm-font-open-sans": "^1.1.0",
     "safe_ux_guidelines": "https://github.com/maidsafe/safe_ux_guidelines.git",
     "vinyl-source-stream": "^1.1.0"
